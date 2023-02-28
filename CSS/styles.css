@@ -1,9 +1,24 @@
 /* body */
 .body{
-    background-color: #DAE2B6 !important;
+    
+}
+
+/* main */
+
+.main-container{
+ background-color: #DAE2B6 !important;
+ height: 100%;
+ margin-left: 15px; margin-right : 15px;
+
+ text-align: center;
+
 }
 
 /* navbar */
+
+.navbar{
+    margin-top:
+}
 .logo{
     height:15px;
     width:auto;
@@ -11,7 +26,27 @@
     margin-bottom: 4px;
 }
 
+
 .nav-link{
-    margin-right: 25px;
+    margin-right: 50px;
     color:#FFFBE9;
+    font-family: 'Public Sans', sans-serif !important;
+}
+.dropdown-item{
+    color:#646155;
+    font-size: 0.8rem;
+}
+
+.nav-link:hover{
+    color:#f3f3f3;
+}
+
+.nav-link::selection{
+    color:#f3f3f3;
+}
+.dropdown-menu{
+    background-color: #afb78865 !important;   
+}
+.dropdown-menu::hover{
+    background-color: #afb78865 !important;   
 }
