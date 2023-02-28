@@ -1,0 +1,17 @@
+/* body */
+.body{
+    background-color: #DAE2B6 !important;
+}
+
+/* navbar */
+.logo{
+    height:15px;
+    width:auto;
+    margin-right : 5px;
+    margin-bottom: 4px;
+}
+
+.nav-link{
+    margin-right: 25px;
+    color:#FFFBE9;
+}
