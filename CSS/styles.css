@@ -1,12 +1,11 @@
 /* body */
 .body{
-    
+ 
 }
 
 /* main */
 
 .main-container{
- background-color: #DAE2B6 !important;
  height: 100%;
  margin-left: 15px; margin-right : 15px;
 
@@ -30,7 +29,7 @@
 .nav-link{
     margin-right: 50px;
     color:#FFFBE9;
-    font-family: 'Public Sans', sans-serif !important;
+    font-family: 'Cabin', sans-serif;
 }
 .dropdown-item{
     color:#646155;
